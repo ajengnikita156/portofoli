@@ -14,10 +14,10 @@
             <ul class="flex flex-wrap items-center mb-6 text-sm font-medium text-blue-500 sm:mb-0 dark:text-blue-400">
                
                 <li>
-                    <a href="#" class="mr-4 hover:underline md:mr-6">@ajenggnnaa</a>
+                    <a href="#" class="mr-4 hover:underline md:mr-6">@ajengnikita</a>
                 </li>
                 <li>
-                    <a href="#" class="mr-4 hover:underline md:mr-6">081224131721</a>
+                    <a href="#" class="mr-4 hover:underline md:mr-6">09876543456</a>
                 </li>
                
             </ul>
